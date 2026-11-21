@@ -1,0 +1,6 @@
+{
+  "name": "CineMatch — Movie Discovery Platform",
+  "description": "Discover trending movies, explore curated genres, find your next watch with the interactive Movie Quiz, and save your favorites in a cinematic streaming experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
